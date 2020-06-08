@@ -1,0 +1,34 @@
+body {
+    background-color: beige;
+}
+
+#container {
+    width: 1000px;
+    margin: auto;
+    background-color: white;
+    background-image : url("（bg_image_01.jpeg）");
+}
+
+header {
+    padding: 100px;
+    height: 80px;
+}
+
+nav {
+    padding: 5px 50px;
+    background-color: DarkSeaGreen;
+    background-image : url("bg_image_01.jpeg");
+    color:  black;
+}
+
+#contents{
+    padding: 80px;
+    height : 400px;
+}
+
+footer {
+    padding: 80px;
+    height: 40px;
+    background-color : brown;
+    color: black ;
+}
